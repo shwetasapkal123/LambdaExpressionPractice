@@ -1,0 +1,8 @@
+C:\Users\user\Fellowship\LambdaExp\LambdaExpr\LambdaExpr\bin\Debug\LambdaExpr.exe.config
+C:\Users\user\Fellowship\LambdaExp\LambdaExpr\LambdaExpr\bin\Debug\LambdaExpr.exe
+C:\Users\user\Fellowship\LambdaExp\LambdaExpr\LambdaExpr\bin\Debug\LambdaExpr.pdb
+C:\Users\user\Fellowship\LambdaExp\LambdaExpr\LambdaExpr\obj\Debug\LambdaExpr.csproj.AssemblyReference.cache
+C:\Users\user\Fellowship\LambdaExp\LambdaExpr\LambdaExpr\obj\Debug\LambdaExpr.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Fellowship\LambdaExp\LambdaExpr\LambdaExpr\obj\Debug\LambdaExpr.csproj.CoreCompileInputs.cache
+C:\Users\user\Fellowship\LambdaExp\LambdaExpr\LambdaExpr\obj\Debug\LambdaExpr.exe
+C:\Users\user\Fellowship\LambdaExp\LambdaExpr\LambdaExpr\obj\Debug\LambdaExpr.pdb
